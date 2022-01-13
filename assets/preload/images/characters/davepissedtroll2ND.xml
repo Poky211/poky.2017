@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="davepissedtroll2ND.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DaveDown0000" x="12" y="12" width="660" height="796"/>
+	<SubTexture name="DaveDown0001" x="12" y="12" width="660" height="796"/>
+	<SubTexture name="DaveDown0002" x="684" y="12" width="660" height="796"/>
+	<SubTexture name="DaveDown0003" x="684" y="12" width="660" height="796"/>
+	<SubTexture name="DaveDown0004" x="1356" y="12" width="660" height="796"/>
+	<SubTexture name="DaveDown0005" x="1356" y="12" width="660" height="796"/>
+	<SubTexture name="DaveDown0006" x="1356" y="12" width="660" height="796"/>
+	<SubTexture name="DaveDown0007" x="1356" y="12" width="660" height="796"/>
+	<SubTexture name="DaveDown0008" x="1356" y="12" width="660" height="796"/>
+	<SubTexture name="DaveDown0009" x="1356" y="12" width="660" height="796"/>
+	<SubTexture name="DaveDown0010" x="1356" y="12" width="660" height="796"/>
+	<SubTexture name="DaveDown0011" x="1356" y="12" width="660" height="796"/>
+	<SubTexture name="DaveDown0012" x="1356" y="12" width="660" height="796"/>
+	<SubTexture name="DaveIdle 0000" x="2028" y="12" width="549" height="833"/>
+	<SubTexture name="DaveIdle 0001" x="2028" y="12" width="549" height="833"/>
+	<SubTexture name="DaveIdle 0002" x="2589" y="12" width="549" height="833"/>
+	<SubTexture name="DaveIdle 0003" x="2589" y="12" width="549" height="833"/>
+	<SubTexture name="DaveIdle 0004" x="3150" y="12" width="549" height="833"/>
+	<SubTexture name="DaveIdle 0005" x="3150" y="12" width="549" height="833"/>
+	<SubTexture name="DaveIdle 0006" x="12" y="857" width="549" height="833"/>
+	<SubTexture name="DaveIdle 0007" x="12" y="857" width="549" height="833"/>
+	<SubTexture name="DaveIdle 0008" x="12" y="857" width="549" height="833"/>
+	<SubTexture name="DaveIdle 0009" x="12" y="857" width="549" height="833"/>
+	<SubTexture name="DaveIdle 0010" x="12" y="857" width="549" height="833"/>
+	<SubTexture name="DaveIdle 0011" x="12" y="857" width="549" height="833"/>
+	<SubTexture name="DaveIdle 0012" x="12" y="857" width="549" height="833"/>
+	<SubTexture name="DaveLeft0000" x="573" y="857" width="546" height="820"/>
+	<SubTexture name="DaveLeft0001" x="573" y="857" width="546" height="820"/>
+	<SubTexture name="DaveLeft0002" x="1131" y="857" width="546" height="820"/>
+	<SubTexture name="DaveLeft0003" x="1131" y="857" width="546" height="820"/>
+	<SubTexture name="DaveLeft0004" x="1689" y="857" width="546" height="820"/>
+	<SubTexture name="DaveLeft0005" x="1689" y="857" width="546" height="820"/>
+	<SubTexture name="DaveLeft0006" x="1689" y="857" width="546" height="820"/>
+	<SubTexture name="DaveLeft0007" x="1689" y="857" width="546" height="820"/>
+	<SubTexture name="DaveLeft0008" x="1689" y="857" width="546" height="820"/>
+	<SubTexture name="DaveLeft0009" x="1689" y="857" width="546" height="820"/>
+	<SubTexture name="DaveLeft0010" x="1689" y="857" width="546" height="820"/>
+	<SubTexture name="DaveLeft0011" x="1689" y="857" width="546" height="820"/>
+	<SubTexture name="DaveLeft0012" x="1689" y="857" width="546" height="820"/>
+	<SubTexture name="DaveRight0000" x="2247" y="857" width="751" height="838"/>
+	<SubTexture name="DaveRight0001" x="2247" y="857" width="751" height="838"/>
+	<SubTexture name="DaveRight0002" x="3010" y="857" width="751" height="838"/>
+	<SubTexture name="DaveRight0003" x="3010" y="857" width="751" height="838"/>
+	<SubTexture name="DaveRight0004" x="12" y="1707" width="751" height="838"/>
+	<SubTexture name="DaveRight0005" x="12" y="1707" width="751" height="838"/>
+	<SubTexture name="DaveRight0006" x="12" y="1707" width="751" height="838"/>
+	<SubTexture name="DaveRight0007" x="12" y="1707" width="751" height="838"/>
+	<SubTexture name="DaveRight0008" x="12" y="1707" width="751" height="838"/>
+	<SubTexture name="DaveRight0009" x="12" y="1707" width="751" height="838"/>
+	<SubTexture name="DaveRight0010" x="12" y="1707" width="751" height="838"/>
+	<SubTexture name="DaveRight0011" x="12" y="1707" width="751" height="838"/>
+	<SubTexture name="DaveRight0012" x="12" y="1707" width="751" height="838"/>
+	<SubTexture name="DaveUp0000" x="775" y="1707" width="689" height="888"/>
+	<SubTexture name="DaveUp0001" x="775" y="1707" width="689" height="888"/>
+	<SubTexture name="DaveUp0002" x="1476" y="1707" width="689" height="888"/>
+	<SubTexture name="DaveUp0003" x="1476" y="1707" width="689" height="888"/>
+	<SubTexture name="DaveUp0004" x="2177" y="1707" width="689" height="888"/>
+	<SubTexture name="DaveUp0005" x="2177" y="1707" width="689" height="888"/>
+	<SubTexture name="DaveUp0006" x="2177" y="1707" width="689" height="888"/>
+	<SubTexture name="DaveUp0007" x="2177" y="1707" width="689" height="888"/>
+	<SubTexture name="DaveUp0008" x="2177" y="1707" width="689" height="888"/>
+	<SubTexture name="DaveUp0009" x="2177" y="1707" width="689" height="888"/>
+	<SubTexture name="DaveUp0010" x="2177" y="1707" width="689" height="888"/>
+	<SubTexture name="DaveUp0011" x="2177" y="1707" width="689" height="888"/>
+	<SubTexture name="DaveUp0012" x="2177" y="1707" width="689" height="888"/>
+	<SubTexture name="daveglitch0000" x="2878" y="1707" width="1058" height="804"/>
+	<SubTexture name="daveglitch0001" x="12" y="2607" width="1058" height="804"/>
+	<SubTexture name="daveglitch0002" x="1082" y="2607" width="1058" height="804"/>
+</TextureAtlas>
