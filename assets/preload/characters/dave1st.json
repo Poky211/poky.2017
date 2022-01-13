@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DaveIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DaveRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DaveLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				57
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DaveUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DaveDown",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/davetroll",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dave",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		0,
+		255
+	],
+	"camera_position": [
+		-10,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}
