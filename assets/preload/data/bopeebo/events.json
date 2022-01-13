@@ -1,346 +1,209 @@
 {
 	"song": {
-		"player1": "bf",
-		"song": "Bopeebo",
-		"player2": "dad",
-		"notes": [
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+		"speed": 2.5,
+		"stage": "backstage",
+		"player1": "bf-better",
+		"player2": "dave1st",
+		"player3": null,
+		"events": [
+			[
+				63000,
+				[
 					[
-						4290,
-						-1,
-						"Hey!",
-						"0",
+						"Play Animation",
+						"2",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				63075,
+				[
 					[
-						9090,
-						-1,
-						"Hey!",
-						"0",
+						"Play Animation",
+						"3",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				63150,
+				[
 					[
-						13890,
-						-1,
-						"Hey!",
-						"0",
+						"Change Character",
+						"dad",
+						"davered"
+					],
+					[
+						"Play Animation",
+						"4",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				63225,
+				[
 					[
-						18690,
-						-1,
-						"Hey!",
-						"0",
+						"Play Animation",
+						"daveglitch",
+						"davered"
+					]
+				]
+			],
+			[
+				65850,
+				[
+					[
+						"Play Animation",
+						"3",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				65925,
+				[
 					[
-						23490,
-						-1,
-						"Hey!",
-						"0",
+						"Play Animation",
+						"daveglitch",
+						"davered"
+					],
+					[
+						"Play Animation",
+						"2",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				66000,
+				[
 					[
-						28290,
-						-1,
-						"Hey!",
-						"0",
+						"Change Character",
+						"dad",
+						"dave1st"
+					],
+					[
+						"Play Animation",
+						"1",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				86100,
+				[
 					[
-						33090,
-						-1,
-						"Hey!",
-						"0",
+						"Change Character",
+						"dad",
+						"dave2nd"
+					]
+				]
+			],
+			[
+				105000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dave3rd"
+					]
+				]
+			],
+			[
+				124575,
+				[
+					[
+						"Play Animation",
+						"2",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				124650,
+				[
 					[
-						37890,
-						-1,
-						"Hey!",
-						"0",
+						"Play Animation",
+						"3",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				124725,
+				[
 					[
-						42690,
-						-1,
-						"Hey!",
-						"0",
+						"Change Character",
+						"dad",
+						"davered"
+					],
+					[
+						"Play Animation",
+						"4",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				124800,
+				[
 					[
-						47490,
-						-1,
-						"Hey!",
-						"0",
+						"Play Animation",
+						"daveglitch",
+						"davered"
+					]
+				]
+			],
+			[
+				143850,
+				[
+					[
+						"Play Animation",
+						"3",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				143925,
+				[
 					[
-						52290,
-						-1,
-						"Hey!",
-						"0",
+						"Play Animation",
+						"daveglitch",
+						"davered"
+					],
+					[
+						"Play Animation",
+						"2",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				144000,
+				[
 					[
-						57090,
-						-1,
-						"Hey!",
-						"0",
+						"Change Character",
+						"dad",
+						"dave3rd"
+					],
+					[
+						"Play Animation",
+						"1",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
-					[
-						61890,
-						-1,
-						"Hey!",
-						"0",
-						""
-					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
-					[
-						66690,
-						-1,
-						"Hey!",
-						"0",
-						""
-					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
-					[
-						71490,
-						-1,
-						"Hey!",
-						"0",
-						""
-					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
-					[
-						76290,
-						-1,
-						"Hey!",
-						"0",
-						""
-					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 100
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 100
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 100
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 100
-			},
-			{
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"bpm": 100,
-				"changeBPM": false,
-				"mustHitSection": true
-			}
+				]
+			]
 		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": null,
 		"needsVoices": true,
-		"validScore": true,
-		"bpm": 100,
-		"speed": 1.3
+		"song": "no-polygons"
 	}
 }
